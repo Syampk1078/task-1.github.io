@@ -1,0 +1,48 @@
+.signup-form{
+    height:550px;
+    width:500px;
+    margin-top:5%;
+    margin-left:25%;
+    background-color: darkgray;
+}
+.Signup-head{
+    padding:8px;
+    background-color: skyblue;
+    text-align: center;
+}
+
+.signup-content2 .input{
+    width:300px;
+    padding:10px;
+    margin:10px;
+    color:black;
+    background-color: gray;
+    width: 240px;
+    
+}
+
+.signup-content2 .name{
+    margin:10px;
+    padding:10px;
+    color:black;
+    background-color:gray;
+    width: 240px;
+}
+
+.signup-content2 .branch{
+    margin: 10px;
+}
+.signup-content2 .branch2{
+    padding:5px;
+    background-color: gray;
+    margin: 10px;
+    width: 260px;
+}
+.signup-content2 .submit-btn{
+    border:none;
+    outline:none;
+    width:200px;
+    padding:10px;
+    margin-left:170px;
+    background-color: coral;
+}
